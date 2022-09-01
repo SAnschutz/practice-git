@@ -32,6 +32,14 @@ function Hello() {
       <h5>I'm Melting</h5>
       <h6>I'm Melting</h6>
       ::goo::
+      <p>.......dunh.... dunh.....</p>
+      <p>...dunh.... dunh.....</p>
+      <p>...DUNH.... DUNH.....</p>
+      <p>DUNH... DUNH... DUNH.....</p>
+      <p>dunh... dunh... dunh... dunh... dunh.. dunh.. dunh. dunh. etc.</p>
+      <p>const thereIsAShark = true</p>
+      <p>while (thereIsAShark) console.log ('dunh. dunh. ')</p>
+      -------------------->CHOMP<--------------------
       {/* Just don't go beyond this line.  For now.  Eventually you'll go far beyond these borders.  But not now. */}
     </div>
   );
