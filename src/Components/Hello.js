@@ -43,6 +43,7 @@ function Hello() {
       Luke: Hello, I'm luke.
       Anakin: Hello, Luke. I am your father.
       (scene)
+      -fin-
       {/* Just don't go beyond this line.  For now.  Eventually you'll go far beyond these borders.  But not now. */}
     </div>
   );
