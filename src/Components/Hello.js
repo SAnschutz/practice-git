@@ -42,9 +42,9 @@ function Hello() {
       </p>
       <p>const thereIsAShark = true</p>
       <p>while (thereIsAShark) console.log ('dunh. dunh. ')</p>
-      -------------------- &lt;CHOMP &gt;-------------------- Luke:
-      Hello, I'm luke. Anakin: Hello, Luke. I am your father. (scene)
-      -fin-
+      -------------------- &lt;CHOMP &gt;-------------------- <br />
+      Luke: Hello, I'm luke. Anakin: Hello, Luke. I am your father.
+      (scene) -fin-
       {/* Just don't go beyond this line.  For now.  Eventually you'll go far beyond these borders.  But not now. */}
     </div>
   );
