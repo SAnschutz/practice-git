@@ -6,6 +6,7 @@ function Hello() {
       {/* write anything you want, between here and the closing div tag.  Be fancy or not, I don't care. */}
       <h2>Hi Michael!</h2>
       <h1>Write me a message!</h1>
+      something or other
       <p>
         You can write these things in html tags like h1, h2, p,
         whatever. (You might have noticed this is within a paragraph
