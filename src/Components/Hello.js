@@ -13,7 +13,7 @@ function Hello() {
       happyFriday
 
       <h3>Chihiro</h3>
-      <button>Michael</button>>
+      <button>Michael</button>
 
 
       <h4>Hereeeeeeeee's Mikeyyyyyyyy!</h4>
