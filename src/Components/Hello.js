@@ -13,6 +13,7 @@ function Hello() {
       happyFriday
 
       <h3>Chihiro</h3>
+      <button>Michael</button>
 
 
       <h4>Hereeeeeeeee's Mikeyyyyyyyy!</h4>
@@ -22,10 +23,10 @@ function Hello() {
         <li>duh, A boy.</li>
         <li>ADELE BOI.</li>
         <li>dull, BOY!</li>
+        <li>seagull, AHOY!</li>
         <li>aDullBoy!</li>
       </ul>
-      Well that was just scary! I guess{' '}
-      <b>we're not in Kansas anymore</b>
+      <p>Well that was just scary! I guess{' '} <b>we're not in Kansas anymore</b></p>
       <p>H20.h2oh.watah.AQUA.l'eau.Di-HydrogenMonoxide</p>
       <h1>I'm Melting</h1>
       <h2>I'm Melting</h2>
